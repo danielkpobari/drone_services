@@ -51,7 +51,7 @@ While implementing your solution **please take care of the following requirement
 - Database: H2 Memory(All data will be preloaded on run);
 - Postman(For testing );
 Steps by step for building and runing the project locally;
-Clone the from the link git clone https://github.com/Chesca22/Drone_Application
+Clone the from the link git clone https://github.com/danielkpobari/drone_services
 - Open the cloned project in intelliJ Idea;
 - Go to POM.xml the update Project to update all the maven dependencies;
 - Maven Build the project and run;
