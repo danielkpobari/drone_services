@@ -63,9 +63,9 @@ Clone the from the link git clone https://github.com/danielkpobari/drone_service
 - preloaded IDs of Medications (**PC003**, **VT0D3** , **IB35OB**);
 ---
 **Registering A Drone**
-- Endpoint: 'http://127.0.0.1:8080/api/register-drone'; 
+- Endpoint: 'http://localhost:8080/api/register-drone'; 
 ```
-curl --location --request POST 'http://127.0.0.1:8080/api/register-drone' \
+curl --location --request POST 'http://localhost:8080/api/register-drone' \
 --header 'Accept: application/json' \
 --header 'Content-Type: application/json' \
 --data-raw '{
