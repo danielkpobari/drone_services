@@ -109,8 +109,8 @@ curl --location --request GET '(http://localhost:8080/api/load-drone/DJI_MAVIC03
     "message": "loaded successfully",
     "data": {
         "id": 1,
-        "createDate": "2022-11-21T16:30:07.781286",
-        "updateDate": "2022-11-21T16:31:14.944319",
+        "createDate": "2024-01-21T16:30:07.781286",
+        "updateDate": "2024-01-21T16:31:14.944319",
         "serialNumber": "DJI_MAVIC03_AIR_2",
         "weight": 120.0,
         "model": "LIGHTWEIGHT",
@@ -142,7 +142,7 @@ curl --location --request GET '(http://localhost:8080/api/loaded-medication/DJI_
 ```
 {
     "message": "success",
-    "timesStamp": "2022-08-22T05:43:05.876705",
+    "timesStamp": "2024-01-22T05:43:05.876705",
     "serialNumber": "DJI_MAVIC03_AIR_2",
     "medications": [
         {
@@ -171,8 +171,8 @@ curl --location --request GET '(http://localhost:8080/api/available-drone)'
     "data": [
         {
             "id": 1,
-            "createDate": "2022-11-21T16:30:07.781286",
-            "updateDate": "2022-11-21T16:30:07.781502",
+            "createDate": "2024-01-21T16:30:07.781286",
+            "updateDate": "2024-01-21T16:30:07.781502",
             "serialNumber": "DJI_MAVIC03_AIR_2",
             "weight": 120.0,
             "model": "LIGHTWEIGHT",
@@ -182,8 +182,8 @@ curl --location --request GET '(http://localhost:8080/api/available-drone)'
         },
         {
             "id": 2,
-            "createDate": "2022-11-21T16:30:08.001985",
-            "updateDate": "2022-11-21T16:30:08.002029",
+            "createDate": "2024-01-21T16:30:08.001985",
+            "updateDate": "2024-01-21T16:30:08.002029",
             "serialNumber": "DJI_MAVIC05_AIR_3",
             "weight": 200.8,
             "model": "CRUISERWEIGHT",
@@ -193,8 +193,8 @@ curl --location --request GET '(http://localhost:8080/api/available-drone)'
         },
         {
             "id": 5,
-            "createDate": "2022-11-21T16:30:08.014965",
-            "updateDate": "2022-11-21T16:30:08.01501",
+            "createDate": "2024-01-21T16:30:08.014965",
+            "updateDate": "2024-01-21T16:30:08.01501",
             "serialNumber": "DJI_MAVIC01_AIR_1",
             "weight": 130.5,
             "model": "LIGHTWEIGHT",
@@ -204,8 +204,8 @@ curl --location --request GET '(http://localhost:8080/api/available-drone)'
         },
         {
             "id": 9,
-            "createDate": "2022-11-21T16:30:08.028716",
-            "updateDate": "2022-11-21T16:30:08.028756",
+            "createDate": "2024-01-21T16:30:08.028716",
+            "updateDate": "2024-01-21T16:30:08.028756",
             "serialNumber": "DSF_MAVIC08_AIR_2",
             "weight": 50.07,
             "model": "CRUISERWEIGHT",
@@ -215,8 +215,8 @@ curl --location --request GET '(http://localhost:8080/api/available-drone)'
         },
         {
             "id": 10,
-            "createDate": "2022-11-21T16:30:08.031822",
-            "updateDate": "2022-11-21T16:30:08.031906",
+            "createDate": "2024-01-21T16:30:08.031822",
+            "updateDate": "2024-01-21T16:30:08.031906",
             "serialNumber": "AMP_MAVIC29_AIR_2",
             "weight": 34.03,
             "model": "HEAVYWEIGHT",
